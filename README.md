@@ -22,7 +22,7 @@ A recopilation of exercises and small projects on python and javascript where li
 <h3>String finder</h3>
   A small script used to find a string given by the user on a provided text. It uses only python.
 </div>
-<h3>Computational toolst</h3>
+<h3>Computational tools</h3>
   A collection of exercises to solve differential equations, integrals and other problems through the use of python and different scientific focused libraries alongside array manipulation.
 
  
