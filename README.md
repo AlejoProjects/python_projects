@@ -3,7 +3,7 @@ A recopilation of exercises and small projects on python and javascript where li
 <div>
 <h3>Contents</h3>
 <ul>
-  <li>>Email automation script</li>
+  <li>Email automation script</li>
   <li>WhatsApp auto</li>
   <li>String Finder</li>
   <li>Computational tools</li>
