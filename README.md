@@ -8,6 +8,7 @@ A recopilation of exercises and small projects on python and javascript where li
   <li>String Finder</li>
   <li>Computational tools</li>
   <li>Apolo's food</li>
+<h1>Brief descriptions</h1>
 </ul>
 </div>
 <div>
